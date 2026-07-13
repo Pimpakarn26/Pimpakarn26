@@ -4,8 +4,7 @@
 
 # 👋 Hi, I'm Pimpakarn
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Graduate;Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Robot+Framework+Automation+Tester;Always+Learning+New+Technologies..." />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+software+that+matters.;Always+curious.+Always+learning.;Let's+create+something+amazing!+%F0%9F%9A%80" />
 </div>
 
 ---

@@ -74,18 +74,12 @@ const pimpakarn = {
 
 ---
 
----
-
 <div align="center">
 
-<img src="https://media1.tenor.com/m/_jYQGEQQiY8AAAAd/cat-67.gif"
-     width="420"
-     alt="Coding Cat" />
+✨ Thanks for visiting my profile ✨
 
 <br><br>
 
-### 💜 *"Learning. Building. Growing."* 🚀
-
-<img src="https://komarev.com/ghpvc/?username=Pimpakarn26&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=Pimpakarn26&style=flat-square&color=blueviolet"/>
 
 </div>

@@ -18,17 +18,10 @@ const pimpakarn = {
     degree: "B.Sc. Software Engineering",
     currentStatus: "Open to Work 💼",
     passions: [
-        "Full-Stack Development",
+        "Web Development",
         "Automation Testing",
-        "Web Applications",
-        "Problem Solving",
         "Data Analyst",
-
-    ],
-    currentlyLearning: [
-        "System Design",
-        "Docker",
-        "CI/CD"
+        "Problem Solving",
     ]
 };
 ```
@@ -42,17 +35,6 @@ const pimpakarn = {
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode,postman,docker,java,php,html,css,tailwind&perline=8"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 Retail POS System
-
-- Promotion Management Module
-- CRUD Operations
-- REST API Integration
-- Robot Framework Automation Testing
 
 ---
 

@@ -59,58 +59,16 @@ const pimpakarn = {
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pimpakarn26&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimpakarn26&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pimpakarn26&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Pimpakarn26/Pimpakarn26/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ☕ Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect with Me
 
 <p align="center">
 
-<a href="mailto:pimpabo3002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:pimpabo3002@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-pimpabo3002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Pimpakarn26">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Pimpakarn26" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Pimpakarn26-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>

@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/w75rDf-A3E8AAAAC/anime-sip.gif" width="350px" />  
 <br/>
-  <i>"Debugging with coffee ☕ and a little patience"</i>
+  <i>"Debugging with coffee ☕ "</i>
   
 # 👋 Hi, I'm Pimpakarn
 

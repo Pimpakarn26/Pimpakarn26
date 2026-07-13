@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="100%" />
+
 
 # 👋 Hi, I'm Pimpakarn
 

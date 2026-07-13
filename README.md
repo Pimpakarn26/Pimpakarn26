@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="100%" />
-
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="80%" />
 
 # 👋 Hi, I'm Pimpakarn
 
@@ -79,6 +78,8 @@ const pimpakarn = {
 
 ### 💜 "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=Pimpakarn26&style=for-the-badge&color=blueviolet"/>
+<p align="center">
+  <img src="https://media1.tenor.com/m/_jYQGEQQiY8AAAAd/cat-67.gif" width="420" alt="Coding Cat"/>
+</p>
 
 </div>
